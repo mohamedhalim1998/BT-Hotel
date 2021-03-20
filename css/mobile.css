@@ -1,0 +1,56 @@
+nav {
+   text-align: center;
+}
+nav #logo {
+   float: none;
+   padding: 5px 20px;
+}
+nav ul {
+   float: none;
+}
+
+nav li {
+   float: none;
+   width: 100%;
+}
+nav ul li a {
+   display: inline-block;
+   padding: 5px 0px;
+   width: 100%;
+}
+#showcase h1 {
+   padding-top: 150px;
+   font-size: 60px;
+   padding-bottom: 20px;
+   line-height: 70px;
+}
+#history img {
+   float: none;
+   width: 100%;
+}
+
+#history .history-box {
+   float: none;
+   width: 100%;
+}
+
+.feature-box {
+   display: block;
+   float: none;
+   text-align: center;
+   color: #333333;
+   width: 100%;
+
+}
+#about .about-box {
+   float: none;
+   width: 100%;
+
+}
+#about img {
+   width: 100%;
+   float: none;
+}
+#guests h1 {
+   line-height: 50px;
+}
